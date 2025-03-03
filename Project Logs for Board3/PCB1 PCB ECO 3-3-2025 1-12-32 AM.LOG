@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+5 Pin=PS1-3
+Removed Member From Class: ClassName=Power Member=PS1
+Added Pin To Net: NetName=Vin Pin=PS1-3
+Change Net Name : Old Net Name=NetC12_2 New Net Name=3V3
+Added Member To Class: ClassName=Microcontroller Member=Component PS1 AMS1117-3.3

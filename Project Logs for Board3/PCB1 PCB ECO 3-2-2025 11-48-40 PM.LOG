@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=J1-S1
+Removed Pin From Net: NetName=GND Pin=J1-S2
+Removed Pin From Net: NetName=GND Pin=J1-S3
+Removed Pin From Net: NetName=GND Pin=J1-S4
+Removed Pin From Net: NetName=GND Pin=J1-S5
+Removed Pin From Net: NetName=GND Pin=J1-S6
+Change Component Footprint: Designator=J1 Old Footprint=AMPHENOL_10118194-0001LF New Footprint=USB_MINI_B
+Change Component Comment : Designator=J1 Old Comment=J_USB_B_Micro New Comment=USB Mini
+Change Component Designator: OldDesignator=ON NewDesignator=DS
+Change component parameters: Designator = "J1" ("J1"); Footprint = "AMPHENOL_10118194-0001LF"; UniqueID = "\AOBSNEMV" ("\AOBSNEMV")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/2103081233_Jing-Extension-of-the-Electronic-Co-920-462A2021D10102_C46398.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C46398"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "920-462A2021D10102"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "USB mini B"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
