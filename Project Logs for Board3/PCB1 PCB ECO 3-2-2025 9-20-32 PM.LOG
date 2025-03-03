@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=JGND2 Old Footprint=6_PIN_ARD-Analog_100mil New Footprint=10_PIN_100MIL - Female
+Change Component Comment : Designator=JGND2 Old Comment=PPTC061LFBN-RC New Comment=PPTC101LFBN-RC
+Change component parameters: Designator = "JGND2" ("JGND2"); Footprint = "6_PIN_ARD-Analog_100mil"; UniqueID = "\GSHTANDG" ("\GSHTANDG")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC101LFBN-RC/S7008-ND/810149/?itemSeq=304982352"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C225507"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "PPTC101LFBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JGND2-7
+Added Pin To Net: NetName=GND Pin=JGND2-8
+Added Pin To Net: NetName=GND Pin=JGND2-9
+Added Pin To Net: NetName=GND Pin=JGND2-10

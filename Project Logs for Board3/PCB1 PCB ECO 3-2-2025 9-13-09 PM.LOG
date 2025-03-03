@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=JGND1-9
+Removed Pin From Net: NetName=GND Pin=JGND1-10
+Change Component Footprint: Designator=JGND1 Old Footprint=10_PIN_100MIL - Female New Footprint=8_PIN_ARD-DIG_100MIL
+Change Component Comment : Designator=JGND1 Old Comment=PPTC101LFBN-RC New Comment=PPTC081LFBN-RC
+Change component parameters: Designator = "JGND1" ("JGND1"); Footprint = "10_PIN_100MIL - Female"; UniqueID = "\ZODCOBKR" ("\ZODCOBKR")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC081LFBN-RC/S7006-ND/810147/?itemSeq=304982354"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C27438"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "PPTC081LFBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Microcontroller Member=Component JD-O1 PPTC081LFBN-RC
