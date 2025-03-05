@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=Reset Pin=C10-2
+Removed Pin From Net: NetName=340_TX Pin=DRX-1
+Removed Pin From Net: NetName=340_RX Pin=DTX-1
+Removed Pin From Net: NetName=GND Pin=RRX-1
+Removed Pin From Net: NetName=GND Pin=RTX-1
+Change Component Comment : Designator=C10 Old Comment=1uF New Comment=47nF
+Change component parameters: Designator = "C10" ("C10"); Footprint = "1206_Passive_Capacitor"; UniqueID = "\YVKUMQZD" ("\YVKUMQZD")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810201313_Murata-Electronics-GRM31M5C1H473JA01L_C21812.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C21812"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "GRM31M5C1H473JA01L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47nF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810221112_Samsung-Electro-Mechanics-CL31A106KBHNNNE_C13585.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C13585"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A106KBHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Reset Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=Vin Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=Vin Pin=DRX-1
+Added Pin To Net: NetName=Vin Pin=DTX-1
+Added Pin To Net: NetName=340_TX Pin=RRX-1
+Added Pin To Net: NetName=340_RX Pin=RTX-1
+Added Member To Class: ClassName=Microcontroller Member=Component C14 10uF

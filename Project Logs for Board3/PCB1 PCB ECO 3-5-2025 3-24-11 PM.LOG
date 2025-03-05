@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Vin Pin=SW328-2
+Removed Member From Class: ClassName=Microcontroller Member=SW328
+Removed Member From Class: ClassName=Microcontroller Member=SW340
+Added Pin To Net: NetName=Vin Pin=C6-2
+Added Pin To Net: NetName=Vin Pin=CS-2
+Added Pin To Net: NetName=Vin Pin=DS-1
+Added Pin To Net: NetName=Vin Pin=SWPR-2
+Added Pin To Net: NetName=Vin Pin=TP5V-1
+Added Pin To Net: NetName=Vin Pin=U1-16
+Added Pin To Net: NetName=Vin Pin=U3-5
+Added Rule: Name=Schematic Supply Nets_2
