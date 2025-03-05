@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=MISO Pin=JSPI-1
+Removed Pin From Net: NetName=Vin Pin=JSPI-2
+Removed Pin From Net: NetName=SCK Pin=JSPI-3
+Removed Pin From Net: NetName=MOSI Pin=JSPI-4
+Removed Pin From Net: NetName=Reset Pin=JSPI-5
+Removed Pin From Net: NetName=GND Pin=JSPI-6
+Removed Member From Class: ClassName=Microcontroller Member=JSPI
+Added Component: Designator=JICSP(ICSP)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/NRPN032PAEN-RC/S5801-03-ND/804955/?itemSeq=304982355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124384"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "NRPN032PAEN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MISO Pin=JICSP-1
+Added Pin To Net: NetName=SCK Pin=JICSP-2
+Added Pin To Net: NetName=Reset Pin=JICSP-3
+Added Pin To Net: NetName=Vin Pin=JICSP-4
+Added Pin To Net: NetName=MOSI Pin=JICSP-5
+Added Pin To Net: NetName=GND Pin=JICSP-6
+Added Member To Class: ClassName=Microcontroller Member=Component JICSP NRPN032PAEN-RC
+Added Member To Class: ClassName=Microcontroller Member=Component U2 ATMEGA328P-ANR
